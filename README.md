@@ -20,6 +20,6 @@ abstract = {With the vigorous development of urban road transportation, traffic 
 Notes on Final Proof:
 1. We improve Figures 9 and 12 to make the expressions more accurate.
 2. We change "mAP0.5:0.95" to "mAP0.5-0.95" in three places to keep the format consistent throughout the text.
-3. We correct four values in Table 6 (the Params and GFLOPs in the first two rows) and two parameter change values in the first paragraph of Section 4.6.1. Please note that this correction is not a falsification of experimental data. During the proofreading process, we made unintentional typos when writing these values (e.g., writing 8.73 as 8.75). We now verify and fix these mistakes to ensure the consistency and accuracy of the paper.
+3. We correct four values in Table 6 (the Params and GFLOPs in the first two rows) and two parameter change values in the first paragraph of Section 4.6.1. Please note that this correction is not a falsification of experimental data. During the proofreading process, we compare Table 6 with Table 8 and find unintentional typos in these values (e.g., writing 8.73 as 8.75). Since the corresponding metrics in Table 8 are verified to be accurate, this is merely a careless mistake. We now fix these errors to ensure the consistency and accuracy of the paper.
 
 We express our sincere gratitude to Neurocomputing for recognizing our research work, and we hope our research makes a valuable contribution to traffic sign detection.
